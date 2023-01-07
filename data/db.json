@@ -11,6 +11,72 @@
       "body": "Why do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).\n\n\nWhere does it come from?\nContrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.\n\nThe standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from \"de Finibus Bonorum et Malorum\" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.\n\nWhere can I get some?\nThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.",
       "author": "yoshi",
       "id": 2
+    },
+    {
+      "title": "hello",
+      "body": "hefafekjlfkj",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "baekfjaeklfj",
+      "body": "alkefjalekfjkla",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "baekfjaeklfj",
+      "body": "alkefjalekfjkla",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "afeaef",
+      "body": "aewfef",
+      "author": "mario",
+      "id": 6
+    },
+    {
+      "title": "afeaef",
+      "body": "aewfef",
+      "author": "mario",
+      "id": 7
+    },
+    {
+      "title": "afwefafawfaf",
+      "body": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun!\nReply\n\nSanyam\nSanyam\n1 year ago\nThanks for the amazing series.😊\nWhy do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e?\n1\nReply\n\nRaj Mehta\nRaj Mehta\n1 year ago\nKeep posting the good stuff. Thank you for such a nice tutorial on react\n4\nThe Net Ninja\nReply\n\nKristoffer Johansson\nKristoffer Johansson\n1 year ago\nGreat tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :)\nUpdate with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. .\n5\nReply\n\nTehTriangle\nTehTriangle\n1 year ago\nI'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks.\n6\nReply\n\n\n1 reply\nKingston Fortune\nKingston Fortune\n3 months ago\nthis is true, infact I had to implement it this way\nReply\n\nMarie-Elize Venter\nMarie-Elize Venter\n\n3 months ago\nThanks again for very short, to the point instructions Shaun!\nReply\n\nrafields2\nrafields2\n8 months ago",
+      "author": "mario",
+      "id": 8
+    },
+    {
+      "title": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun! Reply  Sanyam Sanyam 1 year ago Thanks for the amazing series.😊 Why do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e? 1 Reply  Raj Mehta Raj Mehta 1 year ago Keep posting the good stuff. Thank you for such a nice tutorial on react 4 The Net Ninja Reply  Kristoffer Johansson Kristoffer Johansson 1 year ago Great tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :) Update with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. . 5 Reply  TehTriangle TehTriangle 1 year ago I'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks. 6 Reply   1 reply Kingston Fortune Kingston Fortune 3 months ago this is true, infact I had to implement it this way Reply  Marie-Elize Venter Marie-Elize Venter  3 months ago Thanks again for very short, to the point instructions Shaun! Reply  rafields2 rafields2 8 months ago",
+      "body": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun!\nReply\n\nSanyam\nSanyam\n1 year ago\nThanks for the amazing series.😊\nWhy do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e?\n1\nReply\n\nRaj Mehta\nRaj Mehta\n1 year ago\nKeep posting the good stuff. Thank you for such a nice tutorial on react\n4\nThe Net Ninja\nReply\n\nKristoffer Johansson\nKristoffer Johansson\n1 year ago\nGreat tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :)\nUpdate with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. .\n5\nReply\n\nTehTriangle\nTehTriangle\n1 year ago\nI'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks.\n6\nReply\n\n\n1 reply\nKingston Fortune\nKingston Fortune\n3 months ago\nthis is true, infact I had to implement it this way\nReply\n\nMarie-Elize Venter\nMarie-Elize Venter\n\n3 months ago\nThanks again for very short, to the point instructions Shaun!\nReply\n\nrafields2\nrafields2\n8 months ago",
+      "author": "mario",
+      "id": 9
+    },
+    {
+      "title": "afewfafaewf",
+      "body": "awefefeawfaefaewf",
+      "author": "mario",
+      "id": 10
+    },
+    {
+      "title": "aefawefwfa",
+      "body": "<button>Add Blog</button>",
+      "author": "mario",
+      "id": 11
+    },
+    {
+      "title": "afeafaeffaef",
+      "body": "<button>Add Blog</button>",
+      "author": "mario",
+      "id": 12
+    },
+    {
+      "title": "kfawekjfalkfjlakjeflkj",
+      "body": "awelfhawefjawl;falwjfakjflakjflkawefljaf",
+      "author": "mario",
+      "id": 13
     }
   ]
 }
