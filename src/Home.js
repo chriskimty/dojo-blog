@@ -2,12 +2,8 @@ import { useState, useEffect } from "react";
 import BlogList from "./BlogList";
 
 const Home = () => {
-    const [blogs, setBlogs] = useState(null)
-
-    // const handleDelete = (id) => {
-    //     const newBlogs = blogs.filter(blog => blog.id !== id);
-    //     setBlogs(newBlogs)
-    // }
+    const [blogs, setBlogs] = useState(null);
+    const [isPending, setIsPending] = useState(true);
 
     useEffect(() => {
         fetch('http://localhost:8000/blogs')
@@ -15,14 +11,14 @@ const Home = () => {
             return res.json()
             })
             .then((data) => {
-                // console.log(data)
-                setBlogs(data)
+                setBlogs(data);
+                setIsPending(false);
         })
     },[])
     
     return (
         <div className="home">
-            {/* conditional templating - evaluates left first, if it's false, it doesn't bother with the right  */}
+            { isPending && <div>Loading...</div>}
             {blogs && <BlogList blogs={blogs} title="All Blogs!" />}
         </div>
     );
