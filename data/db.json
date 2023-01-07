@@ -13,88 +13,10 @@
       "id": 2
     },
     {
-      "title": "hello",
-      "body": "hefafekjlfkj",
+      "title": "CHABA IS COOL",
+      "body": "chaba is the best",
       "author": "mario",
       "id": 3
-    },
-    {
-      "title": "baekfjaeklfj",
-      "body": "alkefjalekfjkla",
-      "author": "mario",
-      "id": 4
-    },
-    {
-      "title": "baekfjaeklfj",
-      "body": "alkefjalekfjkla",
-      "author": "mario",
-      "id": 5
-    },
-    {
-      "title": "afeaef",
-      "body": "aewfef",
-      "author": "mario",
-      "id": 6
-    },
-    {
-      "title": "afeaef",
-      "body": "aewfef",
-      "author": "mario",
-      "id": 7
-    },
-    {
-      "title": "afwefafawfaf",
-      "body": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun!\nReply\n\nSanyam\nSanyam\n1 year ago\nThanks for the amazing series.😊\nWhy do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e?\n1\nReply\n\nRaj Mehta\nRaj Mehta\n1 year ago\nKeep posting the good stuff. Thank you for such a nice tutorial on react\n4\nThe Net Ninja\nReply\n\nKristoffer Johansson\nKristoffer Johansson\n1 year ago\nGreat tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :)\nUpdate with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. .\n5\nReply\n\nTehTriangle\nTehTriangle\n1 year ago\nI'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks.\n6\nReply\n\n\n1 reply\nKingston Fortune\nKingston Fortune\n3 months ago\nthis is true, infact I had to implement it this way\nReply\n\nMarie-Elize Venter\nMarie-Elize Venter\n\n3 months ago\nThanks again for very short, to the point instructions Shaun!\nReply\n\nrafields2\nrafields2\n8 months ago",
-      "author": "mario",
-      "id": 8
-    },
-    {
-      "title": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun! Reply  Sanyam Sanyam 1 year ago Thanks for the amazing series.😊 Why do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e? 1 Reply  Raj Mehta Raj Mehta 1 year ago Keep posting the good stuff. Thank you for such a nice tutorial on react 4 The Net Ninja Reply  Kristoffer Johansson Kristoffer Johansson 1 year ago Great tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :) Update with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. . 5 Reply  TehTriangle TehTriangle 1 year ago I'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks. 6 Reply   1 reply Kingston Fortune Kingston Fortune 3 months ago this is true, infact I had to implement it this way Reply  Marie-Elize Venter Marie-Elize Venter  3 months ago Thanks again for very short, to the point instructions Shaun! Reply  rafields2 rafields2 8 months ago",
-      "body": "t is nice to get a new video every other day, so you are forced to let the things you learn \"sink in\" before you go on to the next chapter! Thanks a lot Shaun!\nReply\n\nSanyam\nSanyam\n1 year ago\nThanks for the amazing series.😊\nWhy do you create an arrow function every time (this time in context to the .then)? What's wrong with getting the event e?\n1\nReply\n\nRaj Mehta\nRaj Mehta\n1 year ago\nKeep posting the good stuff. Thank you for such a nice tutorial on react\n4\nThe Net Ninja\nReply\n\nKristoffer Johansson\nKristoffer Johansson\n1 year ago\nGreat tutorial as usual, but I miss one operation, that you also skipped in the node.js crash course: UPDATE :)\nUpdate with pre-populated form too. It would be great if you add that in the end, because you stated earlier that update is out of the scope in this tutorial too. Please please add Update too. .\n5\nReply\n\nTehTriangle\nTehTriangle\n1 year ago\nI'd use a ternary operator for the different loading buttons, as I think it's cleaner than having two { } blocks.\n6\nReply\n\n\n1 reply\nKingston Fortune\nKingston Fortune\n3 months ago\nthis is true, infact I had to implement it this way\nReply\n\nMarie-Elize Venter\nMarie-Elize Venter\n\n3 months ago\nThanks again for very short, to the point instructions Shaun!\nReply\n\nrafields2\nrafields2\n8 months ago",
-      "author": "mario",
-      "id": 9
-    },
-    {
-      "title": "afewfafaewf",
-      "body": "awefefeawfaefaewf",
-      "author": "mario",
-      "id": 10
-    },
-    {
-      "title": "aefawefwfa",
-      "body": "<button>Add Blog</button>",
-      "author": "mario",
-      "id": 11
-    },
-    {
-      "title": "afeafaeffaef",
-      "body": "<button>Add Blog</button>",
-      "author": "mario",
-      "id": 12
-    },
-    {
-      "title": "kfawekjfalkfjlakjeflkj",
-      "body": "awelfhawefjawl;falwjfakjflakjflkawefljaf",
-      "author": "mario",
-      "id": 13
-    },
-    {
-      "title": "fajfewj",
-      "body": "flkjkfja",
-      "author": "mario",
-      "id": 14
-    },
-    {
-      "title": "afewf",
-      "body": "awefawef",
-      "author": "mario",
-      "id": 15
-    },
-    {
-      "title": "a",
-      "body": "a",
-      "author": "mario",
-      "id": 16
     }
   ]
 }
