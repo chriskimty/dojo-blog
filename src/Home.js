@@ -1,20 +1,20 @@
+import { useState } from "react";
+
 const Home = () => {
-
-    // we get 'e' as the first parameter which gives us access to different things
-    const handleClick = (e) => {
-        console.log('hello', e)
+    // let name = 'mario';
+    // useState allows us to make a reactive value and allows us to change value whenever we want
+    const [name, setName] = useState('mario');
+    const [age, setAge] = useState(25);
+    const handleClick = () => {
+        setName('luigi')
+        setAge(30);
     }
-
-    // for this one, if we want to see 'e', pass it into the anon func
-    const handleClickAgain = (name, e) => {
-        console.log('hello' + name, e.target)
-    }
+    
     return (
         <div className="home">
             <h2>Homepage</h2>
+            <p>{name} is {age} years old</p>
             <button onClick={handleClick}>Click me</button>
-            {/* if you want to pass in an argument, pass anon func first like so */}
-            <button onClick={(e) => handleClickAgain('mario', e)}>Click me again</button>
         </div>
     );
 }
